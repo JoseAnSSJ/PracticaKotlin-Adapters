@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Usuers</string>
+    <string name="imgFot">imagenes</string>
+    <string name="sharePrefecens">fristTieme</string>
+    <string name="title">Registro Usuario</string>
+    <string name="dialgConfirm">Registrar</string>
+    <string name="requerd">Requerido</string>
+    <string name="name_user">Nombre de usuario</string>
+    <string name="sp_user_name">userName</string>
+    <string name="user_regist">Usuario Regsitrado</string>
+    <string name="invitado">Invitado</string>
+</resources>
